@@ -1,4 +1,4 @@
-# Hey there, I'm Rashika! ｡◕‿◕｡
+# Hey there, I'm Rashika!!
 
 ```
  ╔══════════════════════════════════════════════════════╗
@@ -55,6 +55,6 @@ I love doing junk journalling, creative makeup and basketball`(ﾉ◕ヮ◕)ﾉ*
 
 ---
 
-*Open to research collaborations in AI/society, SWE roles, and conversations about the future of responsible AI.* `｡◕‿◕｡`
+*Open to research collaborations in AI/society, SWE roles, and conversations about the future of responsible AI.*
 
 *Last updated: June 2026*
