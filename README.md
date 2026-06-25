@@ -1,21 +1,12 @@
 # Hey there, I'm Rashika!!
 
-```
- ╔══════════════════════════════════════════════════════╗
- ║   Senior CS Student  ·  Researcher  ·  Builder       ║
- ║   University of Southern Mississippi  ·  Dec 2026    ║
- ╚══════════════════════════════════════════════════════╝
-```
-
 ---
 
 ## ◈ About Me
 
 I'm a senior Computer Science student finishing up my degree in December 2026. My work sits at the intersection of AI, society, and security. I care about *how and why* AI works the way it does on shaping people's belief. 
 
-Affiliations: Girls Who Code | Rewriting the Code | Encorps | 
-
-I love doing junk journalling, creative makeup and basketball`(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`
+I love junk journalling, creative makeup and basketball`(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧`
 
 ---
 
