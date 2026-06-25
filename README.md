@@ -21,11 +21,11 @@ I love doing junk journalling, creative makeup and basketball`(ﾉ◕ヮ◕)ﾉ*
 
 ## ◈ Currently
 
-**╔ Research ══════════════════════════════════╗**
+**Research**
 
 `٩(◕‿◕｡)۶` Research Fellow in the **AIMS Lab** under **Dr. Rabab Abdelfattah** as part of the **UR2PhD program** at USM. My focus is on the geopolitical and societal effects of AI specifically how LLMs shape political behavior, information access, and power dynamics globally.
 
-**╔ Project ═══════════════════════════════════╗**
+**Project**
 
 `(づ｡◕‿‿◕｡)づ` Extending my **Social Engineering Attack Detection** system at USM's **Cyber Innovation Lab** under Professor Oluseyi
 
