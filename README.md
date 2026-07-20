@@ -40,12 +40,9 @@ I love junk journalling, creative makeup and basketball`(ﾉ◕ヮ◕)ﾉ*:･�
 ```
   [◈] LinkedIn  →  linkedin.com/in/rashika-karmacharya
   [◈] Portfolio →  rashika-karmacharya.vercel.app
-  [◈] Twitter   →  x.com/vvvcoolusername
   [◈] Email     →  rashika.karmacharya@gmail.com
 ```
 
 ---
 
-*Open to research collaborations in AI/society, SWE roles, and conversations about the future of responsible AI.*
 
-*Last updated: June 2026*
